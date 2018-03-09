@@ -1,3 +1,3 @@
 ok
 about
-should be like this
+you should accept fully
