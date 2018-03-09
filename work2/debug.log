@@ -1,0 +1,21 @@
+[0109/132743:ERROR:renderer_main.cc(203)] Running without renderer sandbox
+[0109/132743:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0109/132744:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0109/133013:INFO:CONSOLE(35)] "[object Object]", source: https://h5.sinaimg.cn/m/v8/js/vendor.5387679c.js (35)
+[0109/133013:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0109/133013:ERROR:audio_low_latency_output_win.cc(181)] Bailing out due to non-perfect timing.  Buffer size of 480 is not an even divisor of 1056
+[0109/163900:ERROR:renderer_main.cc(203)] Running without renderer sandbox
+[0109/163901:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0109/163902:INFO:CONSOLE(206)] "Uncaught TypeError: Cannot read property 'permission' of undefined", source: https://mat1.gtimg.com/www/chrometips/notification2017_v0118.js (206)
+[0109/163902:INFO:CONSOLE(0)] "XMLHttpRequest cannot load http://i.gdt.qq.com/view.fcg?adposcount=1&posid=72058763092022479&count=2&ext=%7B%22req%22%3A%7B%22rst%22%3A%221920*1080%22%2C%22webp%22%3A%221%22%7D%2C%22pos%22%3A%7B%220%22%3A%7B%7D%7D%7D&qz_caller=qzfl_jg&_r=694722&charset=utf8&datafmt=jsonp&g_tk=817448579. No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'http://finance.qq.com' is therefore not allowed access. The response had HTTP status code 403.", source: http://finance.qq.com/a/20180109/006995.htm?pgv_ref=aio2015&ptlang=2052 (0)
+[0109/163903:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0109/163903:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0109/163903:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0109/163908:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0109/163908:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0109/164305:WARNING:raw_channel_win.cc(473)] WriteFile: 管道正在被关闭。 (0xE8)
+[0109/164305:WARNING:channel.cc(549)] Failed to send message to ack remove remote endpoint (local ID 1, remote ID 1)
+[0109/164305:WARNING:channel.cc(315)] RawChannel write error
+[0109/164353:ERROR:renderer_main.cc(203)] Running without renderer sandbox
+[0109/164353:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0109/164355:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.oschina.net/p/json-4modern-cpp' was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint 'http://61.145.122.155:8080/addBehavior'. This request has been blocked; the content must be served over HTTPS.", source: https://www.oschina.net/p/json-4modern-cpp (0)
